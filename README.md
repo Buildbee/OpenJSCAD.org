@@ -1,14 +1,15 @@
+<a href="https://creator.buildbee.com"><img src="docs/jscad-mirror-share.png"></a>
 
 While https://openjscad.org is having troubles due to a data center fire, BuildBee is providing an original v1 mirror of the OpenJSCad website.
 
-Version 1 Mirror:
-https://creator.buildbee.com
+<a href="https://creator.buildbee.com">Launch V1 Mirror of JSCad &#8594;</a>
+
 
 
 # About BuildBee
 BuildBee is an all-in-one cloud-based 3D printing platform which aims make 3D printing easier - from designing your own things to printing.  BuildBee works with many 3D printing applications including JSCad.   
 
-https://buildbee.com
+<a href="https://buildbee.com/landing/apps">See More 3D Printing Apps that work with BuildBee &#8594;</a>
 
 
 # About OpenJSCAD
