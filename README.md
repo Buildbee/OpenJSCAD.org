@@ -2,7 +2,7 @@
 
 While https://openjscad.org is having troubles due to a data center fire, BuildBee is providing an original v1 mirror of the OpenJSCad website.
 
-<a href="https://creator.buildbee.com">Launch V1 Mirror of JSCad &#8594;</a>
+<a href="https://openjscad.com">Launch V1 Mirror of JSCad &#8594;</a>
 
 
 
@@ -20,7 +20,7 @@ BuildBee is an all-in-one cloud-based 3D printing platform which aims make 3D pr
 
 There are many ways to use OpenJSCAD: 
 
-An [online version](https://openjscad.org/), [self hosteable web based ui](https://github.com/jscad/OpenJSCAD.org/raw/master/packages/web), as [CLI](https://github.com/jscad/OpenJSCAD.org/raw/master/packages/cli) (command-line interface) for server-side computations with Node.js, as well as an experimental [desktop app](https://github.com/jscad/jscad-desktop) or [individual Node.js modules](https://github.com/jscad/OpenJSCAD.org/tree/master/packages)!!
+An [online version](https://openjscad.com/), [self hosteable web based ui](https://github.com/jscad/OpenJSCAD.org/raw/master/packages/web), as [CLI](https://github.com/jscad/OpenJSCAD.org/raw/master/packages/cli) (command-line interface) for server-side computations with Node.js, as well as an experimental [desktop app](https://github.com/jscad/jscad-desktop) or [individual Node.js modules](https://github.com/jscad/OpenJSCAD.org/tree/master/packages)!!
 
 This repository is a [monorepo](https://medium.com/@maoberlehner/monorepos-in-the-wild-33c6eb246cb9) (container of multiple node.js packages & tools) maintaned with [Lerna](https://lernajs.io/)
 
