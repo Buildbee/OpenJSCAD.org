@@ -32,7 +32,8 @@ This is the Web based UI for [OpenJsCAD](https://github.com/jscad/OpenJSCAD.org)
 
 ### Immediate Use (no installation)
 
-Go to *[OpenJSCAD.org](http://openjscad.org)* (Tested browsers include Chrome, Firefox, Opera, Safari)
+Go to *[OpenJSCAD.com](http://openjscad.com)* (Tested browsers include Chrome, Firefox, Opera, Safari)
+Note for V2 (still in development) go to https://openjscad.xyz
 
 ### Use within a Web Site (pre built files)
 
